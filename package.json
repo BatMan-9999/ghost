@@ -13,7 +13,8 @@
     "ghost": "4.47.4",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
-    "mysql2": "2.3.3"
+    "mysql2": "2.3.3",
+    "journal": "github:TryGhost/Journal#main"
   },
   "scripts": {
     "start": "node index.js",
