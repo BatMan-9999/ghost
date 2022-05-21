@@ -1,4 +1,5 @@
 themes=(
+        journal
 	casper
 	lyra
 )
